@@ -9,7 +9,7 @@
 (tool-bar-mode -1)
 
 ;Disable scroll-bar
-(scroll-bar-mode -1)
+;(scroll-bar-mode -1)
 
 ;Activate material theme
 (load-theme 'material
